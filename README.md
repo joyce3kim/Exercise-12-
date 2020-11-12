@@ -14,7 +14,7 @@ Joyce_family <- c("Lisa", "James", "Joanne")
 
 ## Each Person Classes for Autumn Quarter 2020
 
-### Monita Classes
+### Monita's Classes
 - INFO 201
 - CHIN 451
 - CHIN 461
