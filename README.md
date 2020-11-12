@@ -13,3 +13,9 @@ Joyce_classes <- c("FIG", "Info 200", "Info 201", "Info 290")
 
 
 Joyce_family <- c("Lisa", "James", "Joanne")
+
+# Joyce's Classes
+- FIG
+- Info 200
+- Info 201
+- Info 290
