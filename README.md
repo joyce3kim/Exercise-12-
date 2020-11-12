@@ -11,3 +11,5 @@ dinner_instructions <- c("boil a pot of water", "add pasta", "drain water", "add
 
 Joyce_classes <- c("FIG", "Info 200", "Info 201", "Info 290")
 Joyce_family <- c("Lisa", "James", "Joanne")
+
+Monita_classes <- c("INFO_201", "CHIN_451", "CHIN_461")
