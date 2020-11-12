@@ -17,10 +17,10 @@ Joyce_family <- c("Lisa", "James", "Joanne")
 Monita_classes <- c("INFO_201", "CHIN_451", "CHIN_461")
 
 # Liliana's Classes :
-* INFO INFO 201
+* INFO 201
 * GWSS 451
 * Global Health 101
->>>>>>> 9c25f07056d9c82422b217d6f7afca2cba40915b
+
 # Joyce's Classes :
 * INFO 200
 * INFO 201
