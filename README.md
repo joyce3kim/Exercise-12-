@@ -14,8 +14,17 @@ Joyce_classes <- c("FIG", "Info 200", "Info 201", "Info 290")
 
 Joyce_family <- c("Lisa", "James", "Joanne")
 
+<<<<<<< HEAD
 # Joyce's Classes
 - FIG
 - Info 200
 - Info 201
 - Info 290
+=======
+## Each Person Classes for Autumn Quarter 2020
+
+### Monita's Classes
+- INFO 201
+- CHIN 451
+- CHIN 461
+>>>>>>> ca756accda6acc987f5b1bc5b421d574f591d88f
